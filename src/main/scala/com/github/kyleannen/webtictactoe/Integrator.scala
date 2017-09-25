@@ -65,9 +65,13 @@ object Integrator {
     val boardString = board.mkString(",")
     val boardHtml = board.map(
       cell => "<div class='col-md-4' style='font-size: 130px; border: 10px solid black; text-align: center;'>" +
-        "<a href=/tictactoe?board=" + boardString + "&move=" + cell + ">" +
-        cell +
-        "</a></div>" )
+        (if(cell == "X" || cell =="O") {
+          cell
+        } else {
+          "<a href=/tictactoe?board=" + boardString + "&move=" + cell + ">" +
+            cell +
+            "</a>"
+        }) +  "</div>")
       .mkString("")
     val messagesHtml = messages.map( message => "<h1 style='text-align: center'>" + message + "</h1>" ).mkString("")
     headerHtml + boardHtml + "<br/><br/>" + messagesHtml + footerHtml
