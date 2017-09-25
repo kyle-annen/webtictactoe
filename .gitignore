@@ -1,0 +1,11 @@
+.idea
+/target
+Session.vim
+/project*
+/.idea*
+.project
+.DS_Store
+target/*
+target
+
+

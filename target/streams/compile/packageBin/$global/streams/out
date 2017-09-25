@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kyleannen/Code/webtictactoe/target/scala-2.12/webtictactoe_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen/webtictactoe/Integrator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen/webtictactoe/GameServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/GameServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen/webtictactoe/GameServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/GameServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen/webtictactoe/Integrator$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen/webtictactoe/ControllerTicTacToe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/ControllerTicTacToe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen/webtictactoe/Integrator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/kyleannen/webtictactoe[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github/kyleannen/webtictactoe[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kyleannen/Code/webtictactoe/target/scala-2.12/classes/com/github[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
