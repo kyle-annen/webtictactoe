@@ -2,104 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2097bd2-8df5-44e0-b993-79e18bdb8928" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javaserver-0.1.SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tictactoe_2.12-0.1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3fae0398a8c2b8dd4741$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3fae0398a8c2b8dd4741.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3fae0398a8c2b8dd4741.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$94f5e96813f6c32d0c8c$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$94f5e96813f6c32d0c8c.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$94f5e96813f6c32d0c8c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9d6506d7794eb1f3a7e0$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9d6506d7794eb1f3a7e0.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9d6506d7794eb1f3a7e0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$d7575ee3ebba723ed034$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$d7575ee3ebba723ed034.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$d7575ee3ebba723ed034.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dfd3633c08da75e808d4$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dfd3633c08da75e808d4.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dfd3633c08da75e808d4.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/ControllerTicTacToe.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/ControllerTicTacToe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/GameServer$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/GameServer$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/github/kyleannen/webtictactoe/ControllerTicTacToeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/GameServerTest.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/github/kyleannen/webtictactoe/Integrator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javaserver_0_1_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javaserver_0_1_SNAPSHOT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/webtictactoe-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/webtictactoe-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/webtictactoe.iml" afterPath="$PROJECT_DIR$/.idea/modules/webtictactoe.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/com/github/kyleannen/webtictactoe/IntegratorSpec.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/com/github/kyleannen/webtictactoe/IntegratorSpec.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/webtictactoe-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/webtictactoe-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/webtictactoe-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/webtictactoe-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-webtictactoe-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/kyleannen/webtictactoe/ControllerTicTacToe.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/kyleannen/webtictactoe/ControllerTicTacToe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/GameServer.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/GameServer.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/Integrator.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/Integrator.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/IntegratorSpec.scala" afterPath="$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/IntegratorSpec.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe$sources/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe$sources/0.1/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe$sources/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe$sources/0.1/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe_2.12/0.1/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/webtictactoe_2.12/0.1/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe$sources-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-webtictactoe_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -161,14 +70,34 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="IntegratorSpec.scala" pinned="false" current-in-tab="true">
+          <file leaf-file-name="IntegratorSpec.scala" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/IntegratorSpec.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+                <state relative-caret-position="494">
+                  <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                   <folding>
                     <element signature="e#43#71#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GameServerTest.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/GameServerTest.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="114">
+                  <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ControllerTicTacToeTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/github/kyleannen/webtictactoe/ControllerTicTacToeTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="152">
+                  <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -201,7 +130,7 @@
             <entry file="file://$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/IntegratorSpec.scala">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="171">
-                  <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+                  <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -210,8 +139,8 @@
           <file leaf-file-name="Integrator.scala" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/Integrator.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="211">
-                  <caret line="48" column="25" lean-forward="false" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+                <state relative-caret-position="570">
+                  <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
                   <folding />
                 </state>
               </provider>
@@ -251,12 +180,16 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/Integrator.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/IntegratorSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/GameServerTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/com/github/kyleannen/webtictactoe/ControllerTicTacToeTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="-355" />
+    <option name="y" value="-1440" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -394,6 +327,40 @@
               <item name="webtictactoe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webtictactoe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webtictactoe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webtictactoe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webtictactoe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webtictactoe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webtictactoe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="kyleannen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webtictactoe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webtictactoe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -475,27 +442,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.IntegratorSpec.generateGameState returns a valid game submission if the board and the move are valid">
-    <configuration name="GameServer" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.github.kyleannen.webtictactoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.github.kyleannen.webtictactoe.GameServer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="webtictactoe" />
-      <envs />
-    </configuration>
-    <configuration name="IntegratorSpec.formatHTML formats the board html" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+  <component name="RunManager" selected="ScalaTest.IntegratorSpec.submitRound offers to restart the game is over">
+    <configuration name="IntegratorSpec.submitRound offers to restart the game is over" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="webtictactoe" />
       <setting name="path" value="com.github.kyleannen.webtictactoe.IntegratorSpec" />
@@ -504,7 +452,7 @@
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="formatHTML formats the board html" />
+      <setting name="testName" value="submitRound offers to restart the game is over" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
@@ -513,7 +461,7 @@
       <testRegexps />
       <envs />
     </configuration>
-    <configuration name="IntegratorSpec.generateGameState returns a valid game submission if the board and the move are valid" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="IntegratorSpec.submitRound returns a board with the human move and a computer move is params are valid" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="webtictactoe" />
       <setting name="path" value="com.github.kyleannen.webtictactoe.IntegratorSpec" />
@@ -522,7 +470,7 @@
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="generateGameState returns a valid game submission if the board and the move are valid" />
+      <setting name="testName" value="submitRound returns a board with the human move and a computer move is params are valid" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
@@ -531,7 +479,7 @@
       <testRegexps />
       <envs />
     </configuration>
-    <configuration name="IntegratorSpec.generateGameState returns an invalid game state if the board is not 9 long" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="IntegratorSpec.submitRound returns an empty board if the params is empty" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="webtictactoe" />
       <setting name="path" value="com.github.kyleannen.webtictactoe.IntegratorSpec" />
@@ -540,7 +488,7 @@
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="generateGameState returns an invalid game state if the board is not 9 long" />
+      <setting name="testName" value="submitRound returns an empty board if the params is empty" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
@@ -549,7 +497,7 @@
       <testRegexps />
       <envs />
     </configuration>
-    <configuration name="IntegratorSpec.generateGameState returns an invalid game submission if the submitted move is out of board size" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="IntegratorSpec.validateParamValue returns error if the key is not in paramMap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="webtictactoe" />
       <setting name="path" value="com.github.kyleannen.webtictactoe.IntegratorSpec" />
@@ -558,7 +506,25 @@
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="generateGameState returns an invalid game submission if the submitted move is out of board size" />
+      <setting name="testName" value="validateParamValue returns error if the key is not in paramMap" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+    </configuration>
+    <configuration name="IntegratorSpec.validateParamValue returns the parameter value if the key is in the paramMap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="webtictactoe" />
+      <setting name="path" value="com.github.kyleannen.webtictactoe.IntegratorSpec" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="validateParamValue returns the parameter value if the key is in the paramMap" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
@@ -663,19 +629,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="JAR Application.tictactoe_2.12-0.1.0-SNAPSHOT.jar" />
       <item index="1" class="java.lang.String" itemvalue="JAR Application.javaserver-0.1-SNAPSHOT.jar" />
-      <item index="2" class="java.lang.String" itemvalue="Application.GameServer" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.formatHTML formats the board html" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.generateGameState returns an invalid game state if the board is not 9 long" />
-      <item index="5" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.generateGameState returns an invalid game submission if the submitted move is out of board size" />
-      <item index="6" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.generateGameState returns a valid game submission if the board and the move are valid" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.validateParamValue returns error if the key is not in paramMap" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.validateParamValue returns the parameter value if the key is in the paramMap" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.submitRound returns an empty board if the params is empty" />
+      <item index="5" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.submitRound returns a board with the human move and a computer move is params are valid" />
+      <item index="6" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.submitRound offers to restart the game is over" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.generateGameState returns a valid game submission if the board and the move are valid" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.generateGameState returns an invalid game submission if the submitted move is out of board size" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.generateGameState returns an invalid game state if the board is not 9 long" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.formatHTML formats the board html" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GameServer" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.submitRound offers to restart the game is over" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.submitRound returns a board with the human move and a computer move is params are valid" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.submitRound returns an empty board if the params is empty" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.validateParamValue returns the parameter value if the key is in the paramMap" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.IntegratorSpec.validateParamValue returns error if the key is not in paramMap" />
       </list>
     </recent_temporary>
   </component>
@@ -723,30 +689,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntegratorSpec_formatHTML_formats_the_board_html - 2017.09.27 at 16h 41m 00s.xml">
-      <configuration name="IntegratorSpec.formatHTML formats the board html" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="IntegratorSpec_parseInput_returns_a_map_of_the_url_parameters_supplied - 2017.09.27 at 17h 13m 06s.xml">
+      <configuration name="IntegratorSpec.parseInput returns a map of the url parameters supplied" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="IntegratorSpec_formatHTML_formats_the_board_html - 2017.09.27 at 16h 45m 01s.xml">
-      <configuration name="IntegratorSpec.formatHTML formats the board html" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="IntegratorSpec_parseInput_returns_a_map_of_the_url_parameters_supplied - 2017.09.27 at 17h 13m 38s.xml">
+      <configuration name="IntegratorSpec.parseInput returns a map of the url parameters supplied" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="IntegratorSpec_formatHTML_formats_the_board_html - 2017.09.27 at 16h 45m 32s.xml">
-      <configuration name="IntegratorSpec.formatHTML formats the board html" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="IntegratorSpec_parseInput_returns_a_map_of_the_url_parameters_supplied - 2017.09.27 at 17h 16m 18s.xml">
+      <configuration name="IntegratorSpec.parseInput returns a map of the url parameters supplied" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="IntegratorSpec_formatHTML_formats_the_board_html - 2017.09.27 at 16h 46m 30s.xml">
-      <configuration name="IntegratorSpec.formatHTML formats the board html" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="IntegratorSpec_parseInput_returns_a_map_of_the_url_parameters_supplied - 2017.09.27 at 17h 17m 11s.xml">
+      <configuration name="IntegratorSpec.parseInput returns a map of the url parameters supplied" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="IntegratorSpec_generateGameState_returns_an_invalid_game_state_if_the_board_is_not_9_long - 2017.09.27 at 16h 50m 31s.xml">
-      <configuration name="IntegratorSpec.generateGameState returns an invalid game state if the board is not 9 long" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="IntegratorSpec_parseInput_returns_a_map_of_the_url_parameters_supplied - 2017.09.27 at 17h 17m 36s.xml">
+      <configuration name="IntegratorSpec.parseInput returns a map of the url parameters supplied" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="IntegratorSpec_generateGameState_returns_an_invalid_game_state_if_the_board_is_not_9_long - 2017.09.27 at 16h 50m 46s.xml">
-      <configuration name="IntegratorSpec.generateGameState returns an invalid game state if the board is not 9 long" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="IntegratorSpec_submitRound_offers_to_restart_the_game_is_over - 2017.09.27 at 17h 38m 56s.xml">
+      <configuration name="IntegratorSpec.submitRound offers to restart the game is over" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="IntegratorSpec_generateGameState_returns_an_invalid_game_submission_if_the_submitted_move_is_out_of_board_size - 2017.09.27 at 16h 52m 22s.xml">
-      <configuration name="IntegratorSpec.generateGameState returns an invalid game submission if the submitted move is out of board size" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="IntegratorSpec_submitRound_returns_a_board_with_the_human_move_and_a_computer_move_is_params_are_valid - 2017.09.27 at 17h 37m 06s.xml">
+      <configuration name="IntegratorSpec.submitRound returns a board with the human move and a computer move is params are valid" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="IntegratorSpec_submitRound_returns_an_empty_board_if_the_params_is_empty - 2017.09.27 at 17h 35m 42s.xml">
+      <configuration name="IntegratorSpec.submitRound returns an empty board if the params is empty" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="IntegratorSpec_validateParamValue_returns_error_if_the_key_is_not_in_paramMap - 2017.09.27 at 17h 22m 45s.xml">
+      <configuration name="IntegratorSpec.validateParamValue returns error if the key is not in paramMap" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="IntegratorSpec_validateParamValue_returns_the_parameter_value_if_the_key_is_in_the_paramMap - 2017.09.27 at 17h 24m 45s.xml">
+      <configuration name="IntegratorSpec.validateParamValue returns the parameter value if the key is in the paramMap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="-355" y="-1440" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -767,10 +742,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3532495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25074404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16727717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16719618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1007,19 +982,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/kyleannen/webtictactoe/Integrator.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="48" column="25" lean-forward="false" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        <state relative-caret-position="570">
+          <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/IntegratorSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        <state relative-caret-position="494">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#43#71#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/github/kyleannen/webtictactoe/GameServerTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/github/kyleannen/webtictactoe/ControllerTicTacToeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>

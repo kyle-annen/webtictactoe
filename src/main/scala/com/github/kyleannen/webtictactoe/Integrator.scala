@@ -16,7 +16,7 @@ object Integrator {
       } else {
         TicTacToeAPI.playRound(generateGameState(board, humanMove))
       }
-    val messages = if(updatedGameState.gameOver == true) {
+    val messages = if(updatedGameState.gameOver) {
       "<a href='/'>Restart Game</a>" :: updatedGameState.messages
     } else {
       updatedGameState.messages
