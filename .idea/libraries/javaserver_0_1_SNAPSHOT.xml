@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="javaserver-0.1.SNAPSHOT">
+  <library name="javaserver-0.1-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/javaserver-0.1.SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaserver-0.1-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

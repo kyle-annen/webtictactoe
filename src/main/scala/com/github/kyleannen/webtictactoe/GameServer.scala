@@ -1,11 +1,13 @@
 package com.github.kyleannen.webtictactoe
 
-import com.github.kyleannen.javaserver.{ConfigureServer, Router}
+import org.clojars.kyleannen.javaserver.{ConfigureServer, Router}
 
 object GameServer {
   def start(): Unit = {
     val router = new Router()
-    router.addRoute("GET", "/tictactoe", new ControllerTicTacToe)
+    router.addRoute("GET", "/", new ControllerTicTacToe)
+    router.disableDirectoryRouting()
+    router.disableFileRouting()
     val args: Array[String] = Array("-p", "3333")
     val gameServer = new ConfigureServer().configure(args, router)
     gameServer.run()

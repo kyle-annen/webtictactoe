@@ -1,5 +1,7 @@
 package com.github.kyleannen.webtictactoe
-import com.github.kyleannen.tictactoe.{GameState, TicTacToeAPI}
+
+import org.clojars.kyleannen.tictactoe.{GameState, TicTacToeAPI}
+
 
 object Integrator {
 
@@ -15,7 +17,7 @@ object Integrator {
         TicTacToeAPI.playRound(generateGameState(board, humanMove))
       }
     val messages = if(updatedGameState.gameOver == true) {
-      "<a href='/tictactoe'>Restart Game</a>" :: updatedGameState.messages
+      "<a href='/'>Restart Game</a>" :: updatedGameState.messages
     } else {
       updatedGameState.messages
     }
@@ -68,7 +70,7 @@ object Integrator {
         (if(cell == "X" || cell =="O") {
           cell
         } else {
-          "<a href=/tictactoe?board=" + boardString + "&move=" + cell + ">" +
+          "<a href=/?board=" + boardString + "&move=" + cell + ">" +
             cell +
             "</a>"
         }) +  "</div>")

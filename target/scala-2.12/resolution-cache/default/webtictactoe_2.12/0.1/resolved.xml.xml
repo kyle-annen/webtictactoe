@@ -4,7 +4,7 @@
 		module="webtictactoe_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20170925170106"
+		publication="20170927141609"
 	>
 		<description>
 		webtictactoe
@@ -34,5 +34,7 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.3" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.scalactic" name="scalactic_2.12" rev="3.0.1" conf="compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.12" rev="3.0.1" conf="test->default(compile)"/>
+		<dependency org="org.clojars.kyleannen" name="javaserver" rev="0.1-SNAPSHOT" conf="compile->default(compile)"/>
+		<dependency org="org.clojars.kyleannen" name="tictactoe" rev="0.2" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

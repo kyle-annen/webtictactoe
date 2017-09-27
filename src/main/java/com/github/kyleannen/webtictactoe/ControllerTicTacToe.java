@@ -1,8 +1,8 @@
 package com.github.kyleannen.webtictactoe;
 
-import com.github.kyleannen.javaserver.ControllerInterface;
-import com.github.kyleannen.javaserver.RequestParameters;
-import com.github.kyleannen.javaserver.ResponseParameters;
+import org.clojars.kyleannen.javaserver.ControllerInterface;
+import org.clojars.kyleannen.javaserver.RequestParameters;
+import org.clojars.kyleannen.javaserver.ResponseParameters;
 
 import java.io.IOException;
 
