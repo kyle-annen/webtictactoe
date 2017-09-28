@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ControllerTicTacToeTest {
+public class ControllerTicTacToeSpecHelper {
   @Test
   void getResponseReturnsNewBoardOnNoParamSubmission() throws IOException {
     ArrayList<String> httpMessage = new ArrayList<>();
