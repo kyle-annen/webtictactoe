@@ -4,6 +4,8 @@ Web tic tac toe is a TicTacToe game that is 100% free of HTML.  It is built upon
 
 The Java Server and Scala TicTacToe are hosted at Clojars.org.
 
+Enjoy!
+
 # Playing the game
 
 The game server is started in the terminal, and played in the internet browser of your choice.
