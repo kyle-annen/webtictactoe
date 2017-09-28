@@ -10,6 +10,7 @@ object GameServer {
     router.disableFileRouting()
     val args: Array[String] = Array("-p", "3333")
     val gameServer = new ConfigureServer().configure(args, router)
+    println("Play TicTacToe at http://localhost:3333/")
     gameServer.run()
   }
 
