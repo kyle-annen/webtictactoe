@@ -9,3 +9,5 @@ libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.1"
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
 libraryDependencies += "org.clojars.kyleannen" % "javaserver" % "0.1.1"
 libraryDependencies += "org.clojars.kyleannen" % "tictactoe" % "0.2"
+
+coverageEnabled := true
