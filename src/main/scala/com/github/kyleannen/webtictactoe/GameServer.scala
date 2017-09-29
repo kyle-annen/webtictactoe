@@ -8,9 +8,9 @@ object GameServer {
     router.addRoute("GET", "/", new ControllerTicTacToe)
     router.disableDirectoryRouting()
     router.disableFileRouting()
-    val args: Array[String] = Array("-p", "3333")
+    val args: Array[String] = Array("-p", "3000")
     val gameServer = new ConfigureServer().configure(args, router)
-    println("Play TicTacToe at http://localhost:3333/")
+    println("Play TicTacToe at http://localhost:3000/")
     gameServer.run()
   }
 

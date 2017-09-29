@@ -1,18 +1,17 @@
 package com.github.kyleannen.webtictactoe;
 
-
 import org.clojars.kyleannen.javaserver.ResponseParameters;
 import org.clojars.kyleannen.javaserver.RequestParameters;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ControllerTicTacToeSpecHelper {
+public class ControllerTicTacToeSpec {
   @Test
-  void getResponseReturnsNewBoardOnNoParamSubmission() throws IOException {
+  public void getResponseReturnsNewBoardOnNoParamSubmission() throws IOException {
     ArrayList<String> httpMessage = new ArrayList<>();
     httpMessage.add("GET / HTTP/1.1\r\n\r\n");
     RequestParameters requestParameters =
@@ -29,7 +28,7 @@ public class ControllerTicTacToeSpecHelper {
   }
 
   @Test
-  void getResponseReturnsBoardWithMoveAndComputerMove() throws IOException {
+  public void getResponseReturnsBoardWithMoveAndComputerMove() throws IOException {
     ArrayList<String> httpMessage = new ArrayList<>();
     httpMessage.add("GET /?board=1,2,3,4,5,6,7,8,9&move=1 HTTP/1.1\r\n\r\n");
     RequestParameters requestParameters =
@@ -40,12 +39,11 @@ public class ControllerTicTacToeSpecHelper {
                     .build();
     ResponseParameters responseParameters = new ControllerTicTacToe().getResponse(requestParameters);
     String responseHTML = responseParameters.getBodyContent();
-    assert(responseHTML.contains("X"));
-    assert(responseHTML.contains("O"));
+    assert(responseHTML.contains("X") && responseHTML.contains("O"));
   }
 
   @Test
-  void getResponseReturnsRestartOptionOnGameOver() throws IOException{
+  public void getResponseReturnsRestartOptionOnGameOver() throws IOException{
     ArrayList<String> httpMessage = new ArrayList<>();
     httpMessage.add("GET /?board=X,X,3,O,O,6,7,8,9&move=3 HTTP/1.1\r\n\r\n");
     RequestParameters requestParameters =
