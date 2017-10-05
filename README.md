@@ -35,3 +35,9 @@ Run the game.
 sbt run
 ```
 
+### Heroku Deploy
+
+```bash
+sbt assembly deployHeroku
+```
+
