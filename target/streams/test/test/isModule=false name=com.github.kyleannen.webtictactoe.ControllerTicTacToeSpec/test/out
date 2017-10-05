@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[34mTest run started[0m[0m
+[0m[[0minfo[0m] [0mTest com.github.kyleannen.webtictactoe.[33mControllerTicTacToeSpec[0m.[36mgetResponseReturnsBoardWithMoveAndComputerMove[0m started[0m
+[0m[[0minfo[0m] [0mTest com.github.kyleannen.webtictactoe.[33mControllerTicTacToeSpec[0m.[36mgetResponseReturnsNewBoardOnNoParamSubmission[0m started[0m
+[0m[[0minfo[0m] [0mTest com.github.kyleannen.webtictactoe.[33mControllerTicTacToeSpec[0m.[36mgetResponseReturnsRestartOptionOnGameOver[0m started[0m
+[0m[[0minfo[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 3 total, 1.287s[0m[0m

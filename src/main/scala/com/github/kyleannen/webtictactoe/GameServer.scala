@@ -1,6 +1,7 @@
 package com.github.kyleannen.webtictactoe
 
 import org.clojars.kyleannen.javaserver.{ConfigureServer, Router}
+import scala.util.Properties
 
 object GameServer {
   def start(): Unit = {
@@ -8,7 +9,8 @@ object GameServer {
     router.addRoute("GET", "/", new ControllerTicTacToe)
     router.disableDirectoryRouting()
     router.disableFileRouting()
-    val args: Array[String] = Array("-p", "3000")
+    val port: String = Properties.envOrElse("PORT", "3434")
+    val args: Array[String] = Array("-p", port)
     val gameServer = new ConfigureServer().configure(args, router)
     println("Play TicTacToe at http://localhost:3000/")
     gameServer.run()
