@@ -1,4 +1,7 @@
 .idea/
 lib/
-project/
+target/
+project/project/
+project/target/
+.gitignore
 

@@ -78,8 +78,6 @@ object Integrator {
     val messagesHtml = messages.map( message => "<h1 style='text-align: center'>" + message + "</h1>" ).mkString("")
     headerHtml + boardHtml + "<br/><br/>" + messagesHtml + footerHtml
   }
-
-
 }
 
 
