@@ -20,6 +20,13 @@ herokuJdkVersion in Compile := "1.8"
 herokuAppName in Compile := "young-shelf-68199"
 enablePlugins(JavaAppPackaging)
 
+jacocoReportSettings := JacocoReportSettings(
+  "File output settings",
+  None,
+  JacocoThresholds(),
+  Seq(JacocoReportFormats.XML),
+  "utf-8")
+
 libraryDependencies ++= Seq(
   "org.scalactic" %% "scalactic" % "3.0.1",
   "org.scalatest" %% "scalatest" % "3.0.1" % "test",
